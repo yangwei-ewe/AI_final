@@ -6,15 +6,13 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 from threading import Timer
-import os
-import datetime
-import base64
+import os, datetime, base64
 from PIL import Image
 from io import BytesIO
 
 chrome_options = Options()
 chrome_options.add_experimental_option("debuggerAddress", "127.0.0.1:9222")
-chrome_driver = r"/usr/bin/google-chrome-stable"
+chrome_driver = r"C:\Users\abm69\AppData\Local\Google\Chrome SxS\Application\chrome.exe"
 driver = webdriver.Chrome(service=Service(chrome_driver), options=chrome_options)
 
 
