@@ -2,3 +2,4 @@ image/
 .vscode/
 datasets/
 runs/
+*.pt
