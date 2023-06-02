@@ -1,2 +1,4 @@
 image/
 .vscode/
+datasets/
+runs/
