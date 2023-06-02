@@ -1,2 +1,2 @@
 # AI_final
-[dataset source(thu only)](https://drive.google.com/file/d/189HSsR6-yW6Hy2zNPn5yBYViW9GlCpxl/view?usp=sharing)
+[dataset source for training yolov8 model (thu only)](https://drive.google.com/file/d/1FhJx3NdQqc6LL-ugGi7ZlYViMTXBQkal/view?usp=sharing)
